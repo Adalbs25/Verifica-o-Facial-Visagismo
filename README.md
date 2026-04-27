@@ -1,7 +1,3 @@
-# VisaIA — Análise Facial & Recomendação de Cortes 💈
-
-Sistema de visagismo com IA que analisa o formato do rosto do cliente e recomenda cortes de cabelo personalizados.
-
 ## ✨ Funcionalidades
 
 - **Detecção de 478 pontos faciais** via MediaPipe Face Mesh
